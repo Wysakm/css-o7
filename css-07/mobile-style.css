@@ -1,0 +1,159 @@
+/* mobile */
+@media screen and (max-width: 768px) {
+  .nav-box {
+    display: none;
+    /* visibility: collapse; */
+  }
+  .kbub {
+    display: initial;
+    /* visibility: visible; */
+  }
+
+  .container {
+    padding-left: 7.5%;
+    padding-right: 7.5%;  
+  }
+  .container-I {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .container-II {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+
+  .container-1 {
+    flex-direction: column-reverse;
+    align-items: center;
+    margin: 15px 0px 0px 0px;
+  }
+
+  .container-2 {
+    flex-direction: column;
+    align-items: center;
+  
+  }
+
+  .container-3 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .box-1 {
+    width: 100% !important ;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center ;
+    text-align: center;
+  }
+  
+  .box-2 {
+    width: 65% !important;
+    padding: 15px !important;
+    img {
+      width: 75% !important;
+      height: auto;
+    }
+  }
+
+  
+  .box-4 {
+    display: none;
+  }
+  .box-5 {
+    width: 100%;
+  }
+  .box-8 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .box-9 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .box-9_1 {
+    display: none;
+    /* flex-direction: column;
+    align-items: center; */
+  }
+  .box-9_2 {
+    /* flex-direction: column;
+    align-items: center; */
+    display: none;
+  }
+  .box-9-1 {
+    width: 100%;
+  }
+  .box-9-2 {
+    width: 100%;
+    margin-top: 20px;
+    padding: 30px ;
+  }
+  .box-9-2-1 {
+    font-size: 24px;
+  }
+  
+  .box-9-2-2-I {
+    font-size: 16px;
+  }
+  .box-9-2-2-II {
+    font-size:  16px ;
+  }
+  .box-10 {
+    gap: 28px;
+    padding-bottom: 20px;
+      img {
+        width: 28px;
+        height: 28px;
+      }
+  }
+  
+   .copyright {
+      font-size: 11px;
+  } 
+
+  .container-IV {
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+    padding-bottom: 15px;
+    display: flex;
+  }
+  .box-11 {
+    padding: 20px 0px 20px 0px;
+  }
+
+  .box-14 {
+    padding-left: 0;
+    font-size: 24px;
+  }
+
+  .text-13 {
+    font-size: 12px;
+  }
+  .text-13-1 {
+    font-size: 12px;
+  }
+
+
+  .box-12 {
+    font-size: 18px;
+  }
+  
+  .box-13-1 {
+    font-size: 12px;  
+    padding-right: 10px;  
+  }
+  
+  .box-16-3 {
+    padding: 0px;
+}
+}
+
+
+
+
+
